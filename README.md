@@ -1,0 +1,1 @@
+# krupa_Resume
