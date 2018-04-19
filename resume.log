@@ -246,22 +246,30 @@ Underfull \hbox (badness 10000) in paragraph at lines 61--70
 [1
 
 {C:/Users/krupa/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./krupa.jpg
->] (resume.aux) ) 
+>]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 76.
+ ("C:\Users\krupa\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\omscmr.fd"
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 76.
+ [2] (resume.aux) ) 
 Here is how much of TeX's memory you used:
- 1936 strings out of 493305
- 29243 string characters out of 3129802
- 95309 words of memory out of 3000000
- 5489 multiletter control sequences out of 15000+200000
+ 1953 strings out of 493305
+ 29573 string characters out of 3129802
+ 96309 words of memory out of 3000000
+ 5503 multiletter control sequences out of 15000+200000
  4863 words of font info for 18 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,7n,25p,275b,145s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Users/krupa/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/
-public/amsfonts/cm/cmbx10.pfb><C:/Users/krupa/AppData/Local/Programs/MiKTeX 2.9
-/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/krupa/AppData/Local/Progra
-ms/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb>
-Output written on resume.pdf (1 page, 63518 bytes).
+ 41i,7n,25p,275b,201s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Users/krupa/AppData/Local/Programs/MiKTeX 2.9/fonts/type
+1/public/amsfonts/cm/cmbx10.pfb><C:/Users/krupa/AppData/Local/Programs/MiKTeX 2
+.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/krupa/AppData/Local/Prog
+rams/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/krupa/AppDat
+a/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on resume.pdf (2 pages, 72460 bytes).
 PDF statistics:
- 19 PDF objects out of 1000 (max. 8388607)
+ 26 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
